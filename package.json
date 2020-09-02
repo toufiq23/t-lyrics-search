@@ -1,0 +1,13 @@
+{
+  "name": "t-lyrics-search",
+  "version": "1.0.0",
+  "description": "Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
